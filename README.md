@@ -2,4 +2,4 @@
 A repository about my journey of learning PHP and Laravel
 
 ## Tutorials I watched: 
-* Dani Krossing
+* PHP: Dani Krossing PHP Course
